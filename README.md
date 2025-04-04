@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcio-F-G-Paiva
-- 👀 I’m interested in practicing programming and learning how to work in a team environment 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in working in increasingly bigger projects and understanding how large scale software development works.
+- 🌱 I’m currently learning Java, C and OCaml
 - 📫 How to reach me marcio.f.g.paiva@gmail.com
 
 <!---
